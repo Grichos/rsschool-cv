@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.footer .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footer{
+    padding: 60px 0;
+}
+
+.footer-git-img {
+    width: 40px;
+}
+
+.footer-rs-img {
+    width: 110px;
+}
