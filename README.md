@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Grichos.github.io/rsschool-cv/cv
